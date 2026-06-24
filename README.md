@@ -10,6 +10,12 @@ Upload any **PDF, DOCX, TXT, MD, XLSX, or CSV** file and chat with it using Retr
 
 ---
 
+## 📸 Interface
+
+![DocuMind Interface](Interface.PNG)
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
