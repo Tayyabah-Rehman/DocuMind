@@ -1,0 +1,99 @@
+2026-06-22 18:48:32,630 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:48:32,630 [SECURITY] API authenticated from 127.0.0.1 - upload
+2026-06-22 18:48:39,863 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:48:39,863 [SECURITY] API authenticated from 127.0.0.1 - upload
+2026-06-22 18:48:56,564 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:48:56,564 [SECURITY] API authenticated from 127.0.0.1 - token_usage
+2026-06-22 18:49:30,824 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:49:30,824 [SECURITY] API authenticated from 127.0.0.1 - upload
+2026-06-22 18:49:57,084 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:49:57,086 [SECURITY] API authenticated from 127.0.0.1 - token_usage
+2026-06-22 18:50:25,310 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:50:25,310 [SECURITY] API authenticated from 127.0.0.1 - upload
+2026-06-22 18:50:56,560 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:50:56,561 [SECURITY] API authenticated from 127.0.0.1 - token_usage
+2026-06-22 18:51:30,075 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:51:30,075 [SECURITY] API authenticated from 127.0.0.1 - list_documents_route
+2026-06-22 18:51:30,160 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:51:30,160 [SECURITY] API authenticated from 127.0.0.1 - token_usage
+2026-06-22 18:51:37,023 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:51:37,023 [SECURITY] API authenticated from 127.0.0.1 - upload
+2026-06-22 18:52:30,161 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:52:30,161 [SECURITY] API authenticated from 127.0.0.1 - token_usage
+2026-06-22 18:54:37,457 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:54:37,458 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 18:54:37,459 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:54:37,460 [SECURITY] API authenticated from 192.168.10.8 - list_documents_route
+2026-06-22 18:54:42,252 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:54:42,252 [SECURITY] API authenticated from 192.168.10.8 - upload
+2026-06-22 18:55:27,252 [SECURITY] Valid API key from 127.0.0.1
+2026-06-22 18:55:27,252 [SECURITY] API authenticated from 127.0.0.1 - list_documents_route
+2026-06-22 18:55:37,783 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:55:37,783 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 18:56:37,782 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:56:37,782 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 18:57:37,783 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:57:37,783 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 18:58:37,780 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:58:37,780 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 18:59:37,785 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 18:59:37,785 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:00:37,784 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:00:37,784 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:01:37,784 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:01:37,784 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:02:38,786 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:02:38,786 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:03:39,782 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:03:39,782 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:04:21,448 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:04:21,450 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:04:21,451 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:04:21,451 [SECURITY] API authenticated from 192.168.10.8 - list_documents_route
+2026-06-22 19:04:25,090 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:04:25,090 [SECURITY] API authenticated from 192.168.10.8 - upload
+2026-06-22 19:05:21,790 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:05:21,791 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:06:21,788 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:06:21,788 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:07:21,780 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:07:21,781 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:07:24,127 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:07:24,127 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:07:24,130 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:07:24,131 [SECURITY] API authenticated from 192.168.10.8 - list_documents_route
+2026-06-22 19:08:15,936 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:08:15,936 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:08:15,940 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:08:15,943 [SECURITY] API authenticated from 192.168.10.8 - list_documents_route
+2026-06-22 19:08:19,097 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:08:19,098 [SECURITY] API authenticated from 192.168.10.8 - upload
+2026-06-22 19:08:26,958 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:08:26,958 [SECURITY] API authenticated from 192.168.10.8 - upload
+2026-06-22 19:59:44,870 [SECURITY] Valid API key from 192.168.10.8
+2026-06-22 19:59:44,870 [SECURITY] API authenticated from 192.168.10.8 - token_usage
+2026-06-22 19:59:46,691 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 19:59:46,693 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 19:59:50,687 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 20:00:00,645 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 20:00:29,947 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 20:00:46,779 [SECURITY] API key missing from 192.168.10.8
+2026-06-22 20:01:46,787 [SECURITY] API key missing from 192.168.10.8
+2026-06-23 00:11:40,389 [SECURITY] Upload successful: AutoAgent_Project_Documentation.pdf (doc_id: 231a97668d6e) from 192.168.10.8
+2026-06-23 00:12:36,812 [SECURITY] Chat attempt on missing doc_id: 231a97668d6e from 192.168.10.8
+2026-06-23 00:12:46,099 [SECURITY] Chat attempt on missing doc_id: 231a97668d6e from 192.168.10.8
+2026-06-23 00:13:20,136 [SECURITY] Chat attempt on missing doc_id: 231a97668d6e from 192.168.10.8
+2026-06-23 00:13:29,950 [SECURITY] Upload successful: AutoAgent_Project_Documentation.pdf (doc_id: 142d6e7261e5) from 192.168.10.8
+2026-06-23 00:13:35,378 [SECURITY] Chat attempt on missing doc_id: 142d6e7261e5 from 192.168.10.8
+2026-06-23 00:14:32,799 [SECURITY] Chat attempt on missing doc_id: 142d6e7261e5 from 192.168.10.8
+2026-06-23 00:24:41,890 [SECURITY] Upload successful: AutoAgent_Project_Documentation.pdf (doc_id: d020598068a5) from 192.168.10.8
+2026-06-23 00:24:50,729 [SECURITY] Chat attempt on missing doc_id: d020598068a5 from 192.168.10.8
+2026-06-23 00:24:54,382 [SECURITY] Chat attempt on missing doc_id: d020598068a5 from 192.168.10.8
+2026-06-23 00:25:00,857 [SECURITY] Chat attempt on missing doc_id: d020598068a5 from 192.168.10.8
+2026-06-23 00:25:03,467 [SECURITY] Chat attempt on missing doc_id: d020598068a5 from 192.168.10.8
+2026-06-23 00:34:56,962 [SECURITY] Upload successful: AutoAgent_Project_Documentation.pdf (doc_id: abe9bab72bf8) from 192.168.10.8
+2026-06-23 00:35:05,592 [SECURITY] Chat attempt on missing doc_id: abe9bab72bf8 from 192.168.10.8
+2026-06-23 00:37:35,752 [SECURITY] Upload successful: ProjectDocumentation_PredictIQ.pdf (doc_id: 4c9a310d5d31) from 192.168.10.8
+2026-06-23 00:37:40,083 [SECURITY] Chat attempt on missing doc_id: 4c9a310d5d31 from 192.168.10.8
+2026-06-23 00:37:43,780 [SECURITY] Chat attempt on missing doc_id: 4c9a310d5d31 from 192.168.10.8
+2026-06-23 00:38:22,614 [SECURITY] Chat attempt on missing doc_id: 4c9a310d5d31 from 192.168.10.8
