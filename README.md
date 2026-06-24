@@ -50,7 +50,7 @@ Then open **http://localhost:5000** 🎉
 
 **1. Clone the repo**
 ````bash
-git clone https://github.com/yourusername/DocuMind.git
+git clone https://github.com/Tayyabah-Rehman/DocuMind.git
 cd DocuMind
 ````
 
