@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ app_name }} — RAG Chatbot</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+
+<!-- ── Sidebar ─────────────────────────────────────────────── -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <div class="logo">
+      <span class="logo-icon">⊕</span>
+      <span class="logo-text">DocuMind</span>
+    </div>
+    <p class="logo-sub">RAG Chatbot</p>
+  </div>
+
+  <!-- Upload zone -->
+  <div class="upload-section">
+    <div
+      class="drop-zone"
+      id="dropZone"
+      onclick="document.getElementById('fileInput').click()"
+      ondragover="event.preventDefault(); this.classList.add('drag-over')"
+      ondragleave="this.classList.remove('drag-over')"
+      ondrop="handleDrop(event)"
+    >
+      <div class="drop-icon">📄</div>
+      <p class="drop-text">Drop file here or <span class="link">browse</span></p>
+      <p class="drop-hint">PDF · DOCX · TXT · MD · XLSX · CSV</p>
+    </div>
+    <input
+      type="file"
+      id="fileInput"
+      hidden
+      accept=".pdf,.docx,.doc,.txt,.md,.xlsx,.xls,.csv"
+      onchange="uploadFile(this.files[0])"
+    />
+    <div id="uploadStatus" class="upload-status hidden"></div>
+  </div>
+
+  <!-- Document list -->
+  <div class="doc-list-section">
+    <div class="section-title">Uploaded Documents</div>
+    <ul class="doc-list" id="docList">
+      <li class="doc-empty">No documents yet</li>
+    </ul>
+    <button class="btn-clear" id="clearBtn" onclick="clearDocs()" style="display:none">
+      🗑 Clear all
+    </button>
+  </div>
+</aside>
+
+<!-- ── Main chat ──────────────────────────────────────────── -->
+<main class="main">
+  <header class="chat-header">
+    <h1 class="chat-title">Chat with your documents</h1>
+    <p class="chat-subtitle">Upload documents on the left, then ask anything about them.</p>
+  </header>
+
+  <!-- Messages -->
+  <div class="messages" id="messages">
+    <div class="msg-row assistant">
+      <div class="avatar">🤖</div>
+      <div class="bubble">
+        Hello! I'm <strong>DocuMind</strong>. Upload a document on the left and I'll answer
+        your questions about it using RAG — Retrieval-Augmented Generation.
+      </div>
+    </div>
+  </div>
+
+  <!-- Input bar -->
+  <div class="input-bar">
+    <textarea
+      id="questionInput"
+      class="question-input"
+      placeholder="Ask a question about your documents…"
+      rows="1"
+      onkeydown="handleKey(event)"
+      oninput="autoResize(this)"
+    ></textarea>
+    <button class="send-btn" id="sendBtn" onclick="sendQuestion()">
+      <span id="sendIcon">➤</span>
+    </button>
+  </div>
+</main>
+
+<script src="/static/js/app.js"></script>
+</body>
+</html>
